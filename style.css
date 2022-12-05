@@ -344,6 +344,10 @@ button{
     display: flex;
     margin-right: 1em;
 }
+.social__media a{
+    text-decoration: none;
+    color: white;
+}
 .social__media img{
     width: 1em;
     height: 1em;
