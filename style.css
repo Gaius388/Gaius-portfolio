@@ -175,6 +175,9 @@ button{
 .about__table-left{
     text-align: left;
 }
+.about__table-left a{
+    color: #efa424;
+}
 .about__table-left p{
     font-size: 1.1rem;
     line-height: 2em;
